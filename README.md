@@ -9,11 +9,11 @@
 
 - 👯 I’m looking to collaborate on **Web Projects**
 
-- 👨‍💻 All of my projects are available at [https://csjob.github.io/personalwebsite/](https://csjob.github.io/personalwebsite/)
+- 👨‍💻 All of my projects are available at https://csjob.cherukaras.com/
 
 - 💬 Ask me about **dot net, c#, angular**
 
-- 📫 How to reach me **csjob78@gmail.com**
+- 📫 How to reach me **csjob.developer@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
